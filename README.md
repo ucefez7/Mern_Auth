@@ -1,1 +1,1 @@
-# User-Management-system-MERN
+# User-Authentication-and-Management-system-MERN
